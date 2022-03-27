@@ -1,1 +1,40 @@
-hello
+1. Values- 'hello' , -87.8 , 6
+   Expressions- *,-,/,+
+
+2. A string is a data type. It is collection of alphabetical characters.
+   A variable is like a storage which stores some sort of data type like string, integer, float etc. The name of a varible can not start from with a integer or symbol.
+
+3. String- This data type stores alphabetical charaters. eg- 'Hellow', 'My name is Ajayraj' etc.
+   Integers- This data type store numbers. eg- 100, 5, 85, 0 etc
+   Floats- The decimal numbers are stored as floats. eg- 3.14, 5.0, 6.5555555
+
+4. An expression is a combination of one or multiple operators.
+   Expression is used to obtain desired results.
+
+5. In assignment statement like spam=10 we are storing the value 10 in spam variable but in expression, operators are combined to obtain a desired result.
+
+6. bacon=22
+   bacon+1
+
+   This will give the result 23 but bacon still contains the value 22.
+
+7. 'spamspamspam'
+   'spamspamspam'
+
+8. eggs is valid because python allows intiation of variable name from alphabetical charaters but 100 is invalid because varible name can not start from a number.
+
+9. a=10
+   string_value=str(a)
+   This will give string value of a i.e. '10'.
+
+   float_value=float(a)
+   This will give float value of a i.e. '10.0'.
+
+   integer_value=int(a)
+   This will give integer value of a i.e. 10.
+
+10. This expression is showing error because concatination is allowed etween similar data types.
+
+    'I have eaten '+'99'+' burritos'
+
+    This will resolve the error.
